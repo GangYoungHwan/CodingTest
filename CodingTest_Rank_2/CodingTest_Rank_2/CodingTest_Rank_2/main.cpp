@@ -7,20 +7,29 @@
 #include <set>
 #include <sstream>
 using namespace std;
-long long GCD(int a, int b)
+int solution(vector<int> scoville, int K) 
 {
-    if (b == 0)return a;
-    else return GCD(b, a % b);
-}
-long long solution(int w, int h) 
-{
-    long long answer = w*h;//96
-    long long a = w + h;//20
-    long long g = GCD(max(w, h), min(w, h));//4
-    answer = answer - a + g;
-    return ((long long)w+ (long long)h)-g;
+    int answer = 0;
+    sort(scoville.begin(), scoville.end());
+    int temp_scoville = scoville[0];
+    int next = 0;
+    for (int i = 0; i < scoville.size(); i++)
+    {
+        int minscov = 0;
+        int maxscov = 0;
+        if (next < scoville.size()&& scoville[next] <K)
+        {
+            next++;
+            minscov = min(temp_scoville, scoville[next]);
+            maxscov = max(temp_scoville, scoville[next]);
+            temp_scoville = minscov + (maxscov * 2);
+        }
+    }
+    return next;
 }
 int main(void) {
-    cout << GCD(12, 8);
+
+    cout << ((99 - 93) / 1) + 1;
+    
     return 0;
 }

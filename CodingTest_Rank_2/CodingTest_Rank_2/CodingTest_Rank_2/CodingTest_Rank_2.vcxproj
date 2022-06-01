@@ -139,12 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="124.cpp" />
     <ClCompile Include="Compression of strings.cpp" />
     <ClCompile Include="group photo.cpp" />
     <ClCompile Include="Kakao Friends Coloring Book.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Open Chating.cpp" />
     <ClCompile Include="Rectangle.cpp" />
+    <ClCompile Include="기능개발.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
