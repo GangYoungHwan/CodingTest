@@ -7,17 +7,14 @@
 #include <set>
 #include <sstream>
 #include <queue>
-#include <unordered_map>
 using namespace std;
-
-
-vector<string> solution(vector<string> orders, vector<int> course) {
-    vector<string> answer;
-
+int solution(string str1, string str2) 
+{
+    int answer = 0;
     return answer;
 }
-int main(void) {
+int main(void)
+{
 
-    cout << "hi";
     return 0;
 }
