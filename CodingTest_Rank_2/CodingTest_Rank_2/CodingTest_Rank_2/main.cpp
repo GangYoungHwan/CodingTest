@@ -8,13 +8,16 @@
 #include <sstream>
 #include <queue>
 using namespace std;
-int solution(string str1, string str2) 
+int DFS(vector<string> v,int pos)
 {
-    int answer = 0;
+
+}
+vector<int> solution(vector<vector<string>> places) {
+    vector<int> answer;
     return answer;
 }
 int main(void)
 {
-
+    //1234 1235
     return 0;
 }

@@ -57,5 +57,8 @@
     <ClCompile Include="괄호변환.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="[1차]뉴스클러스터림.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
