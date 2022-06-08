@@ -147,6 +147,7 @@
     <ClCompile Include="Open Chating%28map%29.cpp" />
     <ClCompile Include="Rectangle%28GCD%29.cpp" />
     <ClCompile Include="[1차]뉴스클러스터림.cpp" />
+    <ClCompile Include="거리두기 확인하기.cpp" />
     <ClCompile Include="괄호변환.cpp" />
     <ClCompile Include="기능개발.cpp" />
     <ClCompile Include="더 맵게%28priority_queue%29.cpp" />

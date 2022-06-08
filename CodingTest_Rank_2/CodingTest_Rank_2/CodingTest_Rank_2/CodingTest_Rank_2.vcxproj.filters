@@ -60,5 +60,8 @@
     <ClCompile Include="[1차]뉴스클러스터림.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="거리두기 확인하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
