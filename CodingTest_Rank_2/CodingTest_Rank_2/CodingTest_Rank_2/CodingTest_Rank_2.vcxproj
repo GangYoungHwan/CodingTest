@@ -152,6 +152,7 @@
     <ClCompile Include="기능개발.cpp" />
     <ClCompile Include="더 맵게%28priority_queue%29.cpp" />
     <ClCompile Include="메뉴 리뉴얼.cpp" />
+    <ClCompile Include="수식최대화.cpp" />
     <ClCompile Include="짝지어 제거하기(Stack).cpp" />
     <ClCompile Include="타겟 넘버(DFS).cpp" />
     <ClCompile Include="행렬 테두리회전하기.cpp" />

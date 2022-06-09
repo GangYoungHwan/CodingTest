@@ -1,4 +1,19 @@
-﻿짝지어 제거하기(Stack).obj : error LNK2005: "int __cdecl solution(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?solution@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)이(가) Compression of strings(min_element).obj에 이미 정의되어 있습니다.
+﻿  main.cpp
+C:\Users\pc\Documents\GitHub\CodingTest\CodingTest_Rank_2\CodingTest_Rank_2\CodingTest_Rank_2\main.cpp(17,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Documents\GitHub\CodingTest\CodingTest_Rank_2\CodingTest_Rank_2\CodingTest_Rank_2\main.cpp(38,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  [1차]뉴스클러스터림.cpp
+C:\Users\pc\Documents\GitHub\CodingTest\CodingTest_Rank_2\CodingTest_Rank_2\CodingTest_Rank_2\[1차]뉴스클러스터림.cpp(8,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Documents\GitHub\CodingTest\CodingTest_Rank_2\CodingTest_Rank_2\CodingTest_Rank_2\[1차]뉴스클러스터림.cpp(28,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Documents\GitHub\CodingTest\CodingTest_Rank_2\CodingTest_Rank_2\CodingTest_Rank_2\[1차]뉴스클러스터림.cpp(52,42): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  거리두기 확인하기.cpp
+C:\Users\pc\Documents\GitHub\CodingTest\CodingTest_Rank_2\CodingTest_Rank_2\CodingTest_Rank_2\거리두기 확인하기.cpp(39,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Documents\GitHub\CodingTest\CodingTest_Rank_2\CodingTest_Rank_2\CodingTest_Rank_2\거리두기 확인하기.cpp(41,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  괄호변환.cpp
+C:\Users\pc\Documents\GitHub\CodingTest\CodingTest_Rank_2\CodingTest_Rank_2\CodingTest_Rank_2\괄호변환.cpp(65,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  메뉴 리뉴얼.cpp
+C:\Users\pc\Documents\GitHub\CodingTest\CodingTest_Rank_2\CodingTest_Rank_2\CodingTest_Rank_2\메뉴 리뉴얼.cpp(10,24): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+짝지어 제거하기(Stack).obj : error LNK2005: "int __cdecl solution(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?solution@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)이(가) Compression of strings(min_element).obj에 이미 정의되어 있습니다.
 타겟 넘버(DFS).obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> >,int)" (?solution@@YAHV?$vector@HV?$allocator@H@std@@@std@@H@Z)이(가) 더 맵게(priority_queue).obj에 이미 정의되어 있습니다.
 행렬 테두리회전하기.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > __cdecl solution(int,int,class std::vector<class std::vector<int,class std::allocator<int> >,class std::allocator<class std::vector<int,class std::allocator<int> > > >)" (?solution@@YA?AV?$vector@HV?$allocator@H@std@@@std@@HHV?$vector@V?$vector@HV?$allocator@H@std@@@std@@V?$allocator@V?$vector@HV?$allocator@H@std@@@std@@@2@@2@@Z)이(가) Kakao Friends Coloring Book(DFS).obj에 이미 정의되어 있습니다.
 C:\Users\pc\Documents\GitHub\CodingTest\CodingTest_Rank_2\CodingTest_Rank_2\Debug\CodingTest_Rank_2.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
