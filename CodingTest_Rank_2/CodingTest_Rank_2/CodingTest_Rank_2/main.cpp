@@ -8,11 +8,7 @@
 #include <sstream>
 #include <queue>
 using namespace std;
-vector<int> solution(string s) 
-{
-    vector<int> answer;
-    return answer;
-}
+
 int main(void)
 {
 
