@@ -154,9 +154,11 @@
     <ClCompile Include="메뉴 리뉴얼.cpp" />
     <ClCompile Include="빛의경로 사이클.cpp" />
     <ClCompile Include="수식최대화.cpp" />
+    <ClCompile Include="전화번호 목록.cpp" />
     <ClCompile Include="짝지어 제거하기(Stack).cpp" />
     <ClCompile Include="타겟 넘버(DFS).cpp" />
     <ClCompile Include="튜플.cpp" />
+    <ClCompile Include="프린터cpp.cpp" />
     <ClCompile Include="행렬 테두리회전하기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
