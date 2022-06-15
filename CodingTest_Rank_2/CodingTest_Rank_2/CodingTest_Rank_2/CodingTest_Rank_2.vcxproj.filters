@@ -87,5 +87,8 @@
     <ClCompile Include="조이스틱.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="게임 맵 최단거리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
