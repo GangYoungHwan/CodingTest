@@ -147,11 +147,13 @@
     <ClCompile Include="Open Chating%28map%29.cpp" />
     <ClCompile Include="Rectangle%28GCD%29.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="test2.cpp" />
     <ClCompile Include="[1차]뉴스클러스터림.cpp" />
     <ClCompile Include="가장큰수.cpp" />
     <ClCompile Include="거리두기 확인하기.cpp" />
     <ClCompile Include="게임 맵 최단거리.cpp" />
     <ClCompile Include="괄호변환.cpp" />
+    <ClCompile Include="구명보트.cpp" />
     <ClCompile Include="기능개발.cpp" />
     <ClCompile Include="더 맵게%28priority_queue%29.cpp" />
     <ClCompile Include="메뉴 리뉴얼.cpp" />
@@ -163,6 +165,7 @@
     <ClCompile Include="전화번호 목록.cpp" />
     <ClCompile Include="조이스틱.cpp" />
     <ClCompile Include="짝지어 제거하기(Stack).cpp" />
+    <ClCompile Include="큰 수 만들기.cpp" />
     <ClCompile Include="타겟 넘버(DFS).cpp" />
     <ClCompile Include="튜플.cpp" />
     <ClCompile Include="프린터cpp.cpp" />
