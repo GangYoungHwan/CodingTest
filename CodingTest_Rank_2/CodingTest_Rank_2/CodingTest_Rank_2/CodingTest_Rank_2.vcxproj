@@ -139,7 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1,2,3 더하기.cpp" />
     <ClCompile Include="124.cpp" />
+    <ClCompile Include="1로 만들기cpp.cpp" />
+    <ClCompile Include="2xn 타일링.cpp" />
     <ClCompile Include="Compression of strings%28min_element%29.cpp" />
     <ClCompile Include="group photo%28next_permutation%29.cpp" />
     <ClCompile Include="Kakao Friends Coloring Book%28DFS%29.cpp" />
