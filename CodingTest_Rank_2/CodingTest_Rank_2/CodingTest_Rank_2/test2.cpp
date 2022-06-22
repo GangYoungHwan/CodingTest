@@ -7,7 +7,7 @@ string solution(string number, int k) {
     string answer = "";
     int nsize = number.size() - k;
     int start = 0;
-    for (int i = 0; i < nsize(); i++) {
+    for (int i = 0; i < nsize; i++) {
         int idx = start;
         char cmax = number[start];
         for (int j = start; j <= i + 4; j++) {

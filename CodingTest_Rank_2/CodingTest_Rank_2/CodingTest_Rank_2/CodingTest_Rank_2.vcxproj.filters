@@ -13,100 +13,109 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\프로그래머스">
+      <UniqueIdentifier>{2858f12e-d402-4644-8a87-96281b25dfe1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준%28DP%29">
+      <UniqueIdentifier>{6d4360f5-15df-4fdb-a130-d0a1bf5be1a4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="[1차]뉴스클러스터림.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
     <ClCompile Include="124.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="기능개발.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="타겟 넘버(DFS).cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="더 맵게%28priority_queue%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Rectangle%28GCD%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Open Chating%28map%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Kakao Friends Coloring Book%28DFS%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="group photo%28next_permutation%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
     <ClCompile Include="Compression of strings%28min_element%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="짝지어 제거하기(Stack).cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="group photo%28next_permutation%29.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="행렬 테두리회전하기.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Kakao Friends Coloring Book%28DFS%29.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="메뉴 리뉴얼.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Open Chating%28map%29.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="괄호변환.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="[1차]뉴스클러스터림.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="거리두기 확인하기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="수식최대화.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="튜플.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="빛의경로 사이클.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="전화번호 목록.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="프린터cpp.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="가장큰수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소수찾기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="조이스틱.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="게임 맵 최단거리.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="예상 대진표.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="순위검색.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Rectangle%28GCD%29.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
     <ClCompile Include="test.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
     <ClCompile Include="test2.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="큰 수 만들기.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="가장큰수.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="거리두기 확인하기.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="게임 맵 최단거리.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호변환.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
     <ClCompile Include="구명보트.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="기능개발.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="더 맵게%28priority_queue%29.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="메뉴 리뉴얼.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="빛의경로 사이클.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="소수찾기.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="수식최대화.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="순위검색.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="예상 대진표.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="전화번호 목록.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="조이스틱.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="짝지어 제거하기(Stack).cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="큰 수 만들기.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="타겟 넘버(DFS).cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="튜플.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="프린터cpp.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬 테두리회전하기.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="설탕배달.cpp">
+      <Filter>소스 파일\백준%28DP%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
