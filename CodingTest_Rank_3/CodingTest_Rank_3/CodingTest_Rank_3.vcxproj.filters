@@ -24,5 +24,11 @@
     <ClCompile Include="순위.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="네트워크.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="단어변환.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
