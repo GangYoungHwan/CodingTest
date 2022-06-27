@@ -30,5 +30,11 @@
     <ClCompile Include="단어변환.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="단어변환(dfs).cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="여행경로(백트레킹).cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
