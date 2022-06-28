@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\백준%28DP%29">
       <UniqueIdentifier>{6d4360f5-15df-4fdb-a130-d0a1bf5be1a4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BFS">
+      <UniqueIdentifier>{453a207d-f8dc-4080-bc78-9c803a7906ac}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -125,6 +128,9 @@
     </ClCompile>
     <ClCompile Include="2xn 타일링.cpp">
       <Filter>소스 파일\백준%28DP%29</Filter>
+    </ClCompile>
+    <ClCompile Include="캔디팡.cpp">
+      <Filter>소스 파일\BFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
