@@ -155,6 +155,7 @@
     <ClCompile Include="가장큰수.cpp" />
     <ClCompile Include="거리두기 확인하기.cpp" />
     <ClCompile Include="게임 맵 최단거리.cpp" />
+    <ClCompile Include="괄호 회전하기.cpp" />
     <ClCompile Include="괄호변환.cpp" />
     <ClCompile Include="구명보트.cpp" />
     <ClCompile Include="기능개발.cpp" />
