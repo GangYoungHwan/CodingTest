@@ -161,6 +161,7 @@
     <ClCompile Include="기능개발.cpp" />
     <ClCompile Include="더 맵게%28priority_queue%29.cpp" />
     <ClCompile Include="메뉴 리뉴얼.cpp" />
+    <ClCompile Include="배달.cpp" />
     <ClCompile Include="빛의경로 사이클.cpp" />
     <ClCompile Include="설탕배달.cpp" />
     <ClCompile Include="소수찾기.cpp" />
