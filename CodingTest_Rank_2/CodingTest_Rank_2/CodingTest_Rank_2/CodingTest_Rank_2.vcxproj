@@ -142,6 +142,7 @@
     <ClCompile Include="1,2,3 더하기.cpp" />
     <ClCompile Include="124.cpp" />
     <ClCompile Include="1로 만들기cpp.cpp" />
+    <ClCompile Include="2 x n 타일링cpp.cpp" />
     <ClCompile Include="2xn 타일링.cpp" />
     <ClCompile Include="Compression of strings%28min_element%29.cpp" />
     <ClCompile Include="group photo%28next_permutation%29.cpp" />
@@ -168,6 +169,7 @@
     <ClCompile Include="수식최대화.cpp" />
     <ClCompile Include="순위검색.cpp" />
     <ClCompile Include="예상 대진표.cpp" />
+    <ClCompile Include="위장.cpp" />
     <ClCompile Include="전화번호 목록.cpp" />
     <ClCompile Include="조이스틱.cpp" />
     <ClCompile Include="짝지어 제거하기(Stack).cpp" />
