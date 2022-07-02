@@ -146,6 +146,7 @@
     <ClCompile Include="2xn 타일링.cpp" />
     <ClCompile Include="Compression of strings%28min_element%29.cpp" />
     <ClCompile Include="group photo%28next_permutation%29.cpp" />
+    <ClCompile Include="H-index.cpp" />
     <ClCompile Include="Kakao Friends Coloring Book%28DFS%29.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Open Chating%28map%29.cpp" />
@@ -160,6 +161,7 @@
     <ClCompile Include="괄호변환.cpp" />
     <ClCompile Include="구명보트.cpp" />
     <ClCompile Include="기능개발.cpp" />
+    <ClCompile Include="다리를 지나는 트럭.cpp" />
     <ClCompile Include="더 맵게%28priority_queue%29.cpp" />
     <ClCompile Include="메뉴 리뉴얼.cpp" />
     <ClCompile Include="배달.cpp" />
