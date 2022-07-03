@@ -175,11 +175,13 @@
     <ClCompile Include="전화번호 목록.cpp" />
     <ClCompile Include="조이스틱.cpp" />
     <ClCompile Include="짝지어 제거하기(Stack).cpp" />
+    <ClCompile Include="카펫.cpp" />
     <ClCompile Include="캔디팡.cpp" />
     <ClCompile Include="큰 수 만들기.cpp" />
     <ClCompile Include="타겟 넘버(DFS).cpp" />
     <ClCompile Include="튜플.cpp" />
     <ClCompile Include="프린터cpp.cpp" />
+    <ClCompile Include="피로도cpp.cpp" />
     <ClCompile Include="행렬 테두리회전하기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
