@@ -154,6 +154,7 @@
     <ClCompile Include="test.cpp" />
     <ClCompile Include="test2.cpp" />
     <ClCompile Include="[1차]뉴스클러스터림.cpp" />
+    <ClCompile Include="[1차]프렌즈4블록.cpp" />
     <ClCompile Include="가장큰수.cpp" />
     <ClCompile Include="거리두기 확인하기.cpp" />
     <ClCompile Include="게임 맵 최단거리.cpp" />
