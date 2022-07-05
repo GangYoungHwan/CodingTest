@@ -159,5 +159,8 @@
     <ClCompile Include="[1차]프렌즈4블록.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
+    <ClCompile Include="2개 이하로 다른비트.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
