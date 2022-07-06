@@ -145,6 +145,7 @@
     <ClCompile Include="2 x n 타일링cpp.cpp" />
     <ClCompile Include="2xn 타일링.cpp" />
     <ClCompile Include="2개 이하로 다른비트.cpp" />
+    <ClCompile Include="C.cpp" />
     <ClCompile Include="Compression of strings%28min_element%29.cpp" />
     <ClCompile Include="group photo%28next_permutation%29.cpp" />
     <ClCompile Include="H-index.cpp" />

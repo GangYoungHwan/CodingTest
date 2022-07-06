@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\BFS">
       <UniqueIdentifier>{453a207d-f8dc-4080-bc78-9c803a7906ac}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\기본">
+      <UniqueIdentifier>{4209df18-ab76-43d2-852f-f43b52263e14}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -161,6 +164,9 @@
     </ClCompile>
     <ClCompile Include="2개 이하로 다른비트.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="C.cpp">
+      <Filter>소스 파일\기본</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
